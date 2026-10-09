@@ -35,7 +35,7 @@
 
 /* Budget Page */
 --color-budgetNumberNeutral: hsl(0, 2%, 10%);
---color-budgetNumberPositive: hsl(0, 2%, 10%);
+--color-budgetNumberPositive: hsl(88, 71%, 30%);
 --color-templateNumberUnderFunded: hsl(40, 80%, 40%);
 --color-budgetNumberNegative: hsl(356, 75%, 53%);
 --color-toBudgetNegative: hsl(356, 75%, 53%);
@@ -43,7 +43,7 @@
 --color-budgetOtherMonth: hsl(240, 78%, 99%);
 --color-budgetHeaderCurrentMonth: hsl(240, 78%, 99%);
 --color-budgetHeaderOtherMonth: hsl(240, 78%, 99%);
---color-budgetNumberZero: hsl(0, 2%, 10%);
+--color-budgetNumberZero: hsl(235, 10%, 85%);
 --color-templateNumberFunded: hsl(88, 71%, 30%);
 --color-toBudgetPositive: hsl(88, 71%, 30%);
 --color-toBudgetZero: hsl(89, 70%, 30%);
